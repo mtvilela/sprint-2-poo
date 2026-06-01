@@ -1,0 +1,11 @@
+# Arquivos compilados Java
+*.class
+
+# Saidas de build / IDE
+out/
+bin/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
